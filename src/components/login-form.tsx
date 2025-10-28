@@ -1,4 +1,4 @@
-import { GalleryVerticalEnd, LandPlot } from "lucide-react";
+import { LandPlot } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
 	Field,

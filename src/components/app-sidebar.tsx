@@ -1,12 +1,11 @@
 import {
 	BookOpen,
-	Command,
 	LandPlot,
 	LifeBuoy,
 	MessagesSquare,
 	NotebookPen,
 	Send,
-	Settings2,
+	Settings2
 } from "lucide-react";
 import type * as React from "react";
 
